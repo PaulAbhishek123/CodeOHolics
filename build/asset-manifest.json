@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a184e8a.css",
+    "main.js": "/static/js/main.27a325d5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/HACKFORET.jpg": "/static/media/HACKFORET.4065639f54f852bd14c5.jpg",
+    "static/media/hellocareer.png": "/static/media/hellocareer.0ab4f216c48682ee2b95.png",
+    "static/media/manav.png": "/static/media/manav.b241e220ff09e3f5ec45.png",
+    "static/media/aastha.png": "/static/media/aastha.7e746834dab0475bdfe9.png",
+    "static/media/sixdayscompany.jpg": "/static/media/sixdayscompany.c2cceab648cbed3f3326.jpg",
+    "static/media/Sameera.jpeg": "/static/media/Sameera.1a30de74624cb7ae08b3.jpeg",
+    "static/media/vamshi.jpeg": "/static/media/vamshi.28d72710d2d17dd6ce22.jpeg",
+    "static/media/sulakshana.jpeg": "/static/media/sulakshana.ed987b9756964f2a731d.jpeg",
+    "static/media/about.png": "/static/media/about.a8b26217a765a09d7bf9.png",
+    "static/media/ibrahim.jpg": "/static/media/ibrahim.a02178fdd12e49490233.jpg",
+    "static/media/home.png": "/static/media/home.5874cf01ab3bcb92fab0.png",
+    "static/media/hemanth.jpg": "/static/media/hemanth.939a87c1e805cc102f46.jpg",
+    "static/media/nikhil.jpg": "/static/media/nikhil.bbf3df71c102d2b23447.jpg",
+    "static/media/codeoholicsLogo.jpeg": "/static/media/codeoholicsLogo.ee5ec24f513bb55b4be2.jpeg",
+    "index.html": "/index.html",
+    "main.6a184e8a.css.map": "/static/css/main.6a184e8a.css.map",
+    "main.27a325d5.js.map": "/static/js/main.27a325d5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a184e8a.css",
+    "static/js/main.27a325d5.js"
+  ]
+}
